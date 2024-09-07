@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/react-shoppping-cart-sanketpaliwal",
+  "homepage": "https://sanketpaliwal.github.io/react-shoppping-cart",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
