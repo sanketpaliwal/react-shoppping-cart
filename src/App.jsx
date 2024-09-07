@@ -52,7 +52,7 @@ function Home() {
 
 function App() {
   return (
-    <Router >
+    <Router basename='/react-shoppping-cart'>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/products" element={<Products/>} />
